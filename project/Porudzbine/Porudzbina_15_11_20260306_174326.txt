@@ -1,0 +1,11 @@
+
+Datum i vreme kreiranja porudžbine: 2026-03-06 17:43:26
+Ime: testGlavni
+Prezime: testGlavni
+Adresa: Adresa221
+Broj Telefona: 012345698
+Artikal: Majica1
+Cena: 2500
+Datum isporuke: 2026-03-09
+Količina: 1
+Veličina: XS
