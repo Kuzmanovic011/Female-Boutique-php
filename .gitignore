@@ -1,0 +1,17 @@
+config.php
+db.php
+*.env
+
+Thumbs.db
+.DS_Store
+
+.vscode/
+.idea/
+
+*.log
+*.tmp
+*.cache
+
+*.bak
+*.backup
+*.old
